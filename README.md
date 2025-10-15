@@ -84,7 +84,7 @@
 
 <script>
 
-const PASSWORD = '151006';
+const PASSWORD = '123456';
 
 const RECIPIENT_NAME = 'mọi người';
 const SENDER_NAME = 'đẹp trai vcl';
